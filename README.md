@@ -8,4 +8,8 @@ Rotary Encoder
 bunch of buttons
 I2C oled screen
 
+Libraries Needed:
+RYLR_LoRaAT.h download through arduino IDE
+AdafruitGFX and SSD1306 libraries
+
 everything is wired separately so it shouldnt be that hard to fashion a circuit out of these parts that will work, Buttons are connected to digital pins, REYAX RYLR 998 IS CONNECTED TO 3V3 NOT 5V
